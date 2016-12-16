@@ -3,6 +3,8 @@ Java Hello World Sample
 
 This project contains a simple Servlet application.
 
+<a href="https://bluemix.net/deploy?repository=https://github.com/dongshik/session-test02-1481696408327.git" # [required]><img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a>
+
 ## Running the Application Locally in Eclipse with Liberty
 
 1. Download and install [IBM Eclipse Tools for Bluemix](https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Eclipse_Tools_for_Bluemix).
